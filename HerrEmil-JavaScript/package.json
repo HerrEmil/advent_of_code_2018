@@ -1,0 +1,14 @@
+{
+  "name": "herremil-aoc2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:all": "mocha *.spec.js",
+    "test:w": "mocha *.spec.js -w",
+    "test": "mocha -w"
+  },
+  "author": "",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
